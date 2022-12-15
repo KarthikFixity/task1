@@ -13,5 +13,11 @@ namespace task1
             string input = Console.ReadLine();
             int x = Convert.ToInt32(Console.ReadLine());
         }
+                static void karthi(string[] args)
+        {
+            string input = Console.ReadLine();
+            int x = Convert.ToInt32(Console.ReadLine());
+        }
+        
     }
 }
